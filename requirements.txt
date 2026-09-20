@@ -1,0 +1,6 @@
+streamlit>=1.20
+openai>=1.0.0
+python-dotenv>=1.0.0
+# Optional: google-generative-ai (Gemini). Install manually if you need Gemini.
+# langgraph is optional; the app falls back if not installed.
+langgraph>=0.1.0

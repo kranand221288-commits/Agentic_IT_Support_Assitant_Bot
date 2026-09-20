@@ -1,0 +1,302 @@
+[
+  {
+    "employee_id": "EMP1001",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1002",
+    "name": "Bob Singh",
+    "email": "bob.singh@example.com",
+    "department": "Sales"
+  },
+  {
+    "employee_id": "EMP1003",
+    "name": "Carlos Mendes",
+    "email": "carlos.mendes@example.com",
+    "department": "Marketing"
+  },
+  {
+    "employee_id": "EMP1004",
+    "name": "Diana Lee",
+    "email": "diana.lee@example.com",
+    "department": "Product"
+  },
+  {
+    "employee_id": "EMP1005",
+    "name": "Ethan Brown",
+    "email": "ethan.brown@example.com",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1006",
+    "name": "Fiona Patel",
+    "email": "fiona.patel@example.com",
+    "department": "HR"
+  },
+  {
+    "employee_id": "EMP1007",
+    "name": "George Kim",
+    "email": "george.kim@example.com",
+    "department": "Support"
+  },
+  {
+    "employee_id": "EMP1008",
+    "name": "Hannah Wilson",
+    "email": "hannah.wilson@example.com",
+    "department": "Finance"
+  },
+  {
+    "employee_id": "EMP1009",
+    "name": "Ian Thompson",
+    "email": "ian.thompson@example.com",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1010",
+    "name": "Jaya Rao",
+    "email": "jaya.rao@example.com",
+    "department": "Sales"
+  },
+  {
+    "employee_id": "EMP1011",
+    "name": "Kumar",
+    "email": "kumar@example.com",
+    "department": "HR"
+  },
+  {
+    "employee_id": "EMP1012",
+    "name": "Lina Gomez",
+    "email": "lina.gomez@example.com",
+    "department": "Marketing"
+  },
+  {
+    "employee_id": "EMP1013",
+    "name": "Marcus Allen",
+    "email": "marcus.allen@example.com",
+    "department": "Product"
+  },
+  {
+    "employee_id": "EMP1014",
+    "name": "Nadia Petrova",
+    "email": "nadia.petrova@example.com",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1015",
+    "name": "Omar Farouk",
+    "email": "omar.farouk@example.com",
+    "department": "Support"
+  },
+  {
+    "employee_id": "EMP1016",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "department": "Finance"
+  },
+  {
+    "employee_id": "EMP1017",
+    "name": "Quentin Blake",
+    "email": "quentin.blake@example.com",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1018",
+    "name": "Rina Sato",
+    "email": "rina.sato@example.com",
+    "department": "Design"
+  },
+  {
+    "employee_id": "EMP1019",
+    "name": "Samir Khan",
+    "email": "samir.khan@example.com",
+    "department": "Operations"
+  },
+  {
+    "employee_id": "EMP1020",
+    "name": "Tara O'Neil",
+    "email": "tara.oneil@example.com",
+    "department": "Legal"
+  },
+  {
+    "employee_id": "EMP1021",
+    "name": "Umar Aziz",
+    "email": "umar.aziz@example.com",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1022",
+    "name": "Vera Novak",
+    "email": "vera.novak@example.com",
+    "department": "HR"
+  },
+  {
+    "employee_id": "EMP1023",
+    "name": "Will Turner",
+    "email": "will.turner@example.com",
+    "department": "Sales"
+  },
+  {
+    "employee_id": "EMP1024",
+    "name": "Kumar R",
+    "email": "kumar.r@example.com",
+    "department": "HR"
+  },
+  {
+    "employee_id": "EMP1025",
+    "name": "Xiao Li",
+    "email": "xiao.li@example.com",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1026",
+    "name": "Yara Haddad",
+    "email": "yara.haddad@example.com",
+    "department": "Marketing"
+  },
+  {
+    "employee_id": "EMP1027",
+    "name": "Zane Cooper",
+    "email": "zane.cooper@example.com",
+    "department": "Product"
+  },
+  {
+    "employee_id": "EMP1028",
+    "name": "Aisha Bello",
+    "email": "aisha.bello@example.com",
+    "department": "Support"
+  },
+  {
+    "employee_id": "EMP1029",
+    "name": "Ben Carter",
+    "email": "ben.carter@example.com",
+    "department": "Finance"
+  },
+  {
+    "employee_id": "EMP1030",
+    "name": "Chloe Martin",
+    "email": "chloe.martin@example.com",
+    "department": "Design"
+  },
+  {
+    "employee_id": "EMP1031",
+    "name": "Diego Alvarez",
+    "email": "diego.alvarez@example.com",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1032",
+    "name": "Elena Rossi",
+    "email": "elena.rossi@example.com",
+    "department": "Sales"
+  },
+  {
+    "employee_id": "EMP1033",
+    "name": "Farah Ahmed",
+    "email": "farah.ahmed@example.com",
+    "department": "HR"
+  },
+  {
+    "employee_id": "EMP1034",
+    "name": "Gavin Brooks",
+    "email": "gavin.brooks@example.com",
+    "department": "Operations"
+  },
+  {
+    "employee_id": "EMP1035",
+    "name": "Hiro Tanaka",
+    "email": "hiro.tanaka@example.com",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1036",
+    "name": "Isha Mehta",
+    "email": "isha.mehta@example.com",
+    "department": "Product"
+  },
+  {
+    "employee_id": "EMP1037",
+    "name": "Jamal White",
+    "email": "jamal.white@example.com",
+    "department": "Support"
+  },
+  {
+    "employee_id": "EMP1038",
+    "name": "Katerina Ivanova",
+    "email": "katerina.ivanova@example.com",
+    "department": "Marketing"
+  },
+  {
+    "employee_id": "EMP1039",
+    "name": "Liam O'Connor",
+    "email": "liam.oconnor@example.com",
+    "department": "Finance"
+  },
+  {
+    "employee_id": "EMP1040",
+    "name": "Maya Fernandez",
+    "email": "maya.fernandez@example.com",
+    "department": "Design"
+  },
+  {
+    "employee_id": "EMP1041",
+    "name": "Noah Green",
+    "email": "noah.green@example.com",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1042",
+    "name": "Olivia Park",
+    "email": "olivia.park@example.com",
+    "department": "HR"
+  },
+  {
+    "employee_id": "EMP1043",
+    "name": "Peter Novak",
+    "email": "peter.novak@example.com",
+    "department": "Sales"
+  },
+  {
+    "employee_id": "EMP1044",
+    "name": "Qi Wang",
+    "email": "qi.wang@example.com",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1045",
+    "name": "Rohit Desai",
+    "email": "rohit.desai@example.com",
+    "department": "Operations"
+  },
+  {
+    "employee_id": "EMP1046",
+    "name": "Sara Lind",
+    "email": "sara.lind@example.com",
+    "department": "Product"
+  },
+  {
+    "employee_id": "EMP1047",
+    "name": "Tomás Silva",
+    "email": "tomas.silva@example.com",
+    "department": "Support"
+  },
+  {
+    "employee_id": "EMP1048",
+    "name": "Uma Nair",
+    "email": "uma.nair@example.com",
+    "department": "Finance"
+  },
+  {
+    "employee_id": "EMP1049",
+    "name": "Victor Hugo",
+    "email": "victor.hugo@example.com",
+    "department": "Marketing"
+  },
+  {
+    "employee_id": "EMP1050",
+    "name": "Wendy Zhao",
+    "email": "wendy.zhao@example.com",
+    "department": "Design"
+  }
+]

@@ -1,0 +1,33 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+env/
+venv/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Data and DB
+data/*.db
+data/conversation_history.jsonl
+data/*.sqlite
+data/*.sqlite3
+
+# IDEs and OS
+.vscode/
+.idea/
+*.suo
+*.user
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+tmp/
